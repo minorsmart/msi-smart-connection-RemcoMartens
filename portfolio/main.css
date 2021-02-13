@@ -128,3 +128,6 @@ body {
       overflow-x: scroll;
     }
   }
+  h5 {
+    font-size: 1.1rem;
+  }
